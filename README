@@ -1,5 +1,8 @@
 This is the LilyFN Fretboard Notator project, a custom LilyPond engraver for StaffTab(TM).
 
+UPDATE: 
+  I added the sample file "scheme-engraver.ly" from the LilyPond project.
+
 
 Here's Carl Sorensen on getting started:
 
