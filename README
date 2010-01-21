@@ -1,0 +1,36 @@
+This is the LilyFN Fretboard Notator project, a custom LilyPond engraver for StaffTab(TM).
+
+
+Here's Carl Sorensen on getting started:
+
+"Hmm -- how to get started?  Well, there are several things that you need to
+figure out:
+
+0) How to get the source with git.  It's really easy, especially if you use
+the lily-git.tcl script.  See the Contributor's Guide for information.
+
+1) How to write an engraver in Scheme.  Han-Wen just added that
+functionality, and david pounder figured out how to use it.
+
+See
+
+http://thread.gmane.org/gmane.comp.gnu.lilypond.general/53740
+
+for an example, and and see
+
+http://thread.gmane.org/gmane.comp.gnu.lilypond.devel/26715
+
+for Han-Wen's original explanation.
+
+3) How to do the Scheme manipulation.  That's a bit harder for me to
+explain.  I'd suggest you start with the Contributor's Guide chapter on
+Programming.  Follow that up with the Scheme tutorial in Extending LilyPond.
+Then try some stuff and see where you get stuck, and ask on the list for
+help.  We'll be happy to provide it.
+
+I hope this has been helpful.  I know it's a big chore to figure out how to
+get started in LilyPond, but it's worth it!
+
+Thanks,
+
+Carl"
